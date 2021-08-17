@@ -30,13 +30,32 @@
 /* //////////////Main image///////////////////////// */
 
 #about-me {
-  padding-top: 5%;
+  padding-top: 10%;
   padding-bottom: 5%;
 }
 /* ////////////////////////////////CAROSEL/////////////////////// */
 .center-header {
   text-align: center;
   padding-bottom: 5%;
+}
+#project-pill {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: orange;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+#project-pill:hover {
+  color: black;
+}
+#code-icon {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 /* //////////////////////Footer////////////////// */
 #contact-header {
