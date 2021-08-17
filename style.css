@@ -33,29 +33,51 @@
   padding-top: 10%;
   padding-bottom: 5%;
 }
+
+.italic-text {
+  font-size: 1.1em;
+  color: orange;
+  font-style: italic;
+}
 /* ////////////////////////////////CAROSEL/////////////////////// */
 .center-header {
   text-align: center;
   padding-bottom: 5%;
 }
 #project-pill {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   background-color: orange;
   font-size: 2rem;
   text-decoration: none;
+  margin-top: -15px;
 }
 
 #project-pill:hover {
   color: black;
+  justify-content: center;
 }
-#code-icon {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.application-img {
+  padding-bottom: 2.5%;
+  max-height: 20%;
+}
+
+.project-description > * {
+  margin: 0;
+  margin-bottom: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.code-icon {
+  color: orange;
+}
+
+.code-icon:hover {
+  -moz-transform: translate(2px, 2px);
+  -ms-transform: translate(2px, 2px);
+  -o-transform: translate(2px, 2px);
+  -webkit-transform: translate(2px, 2px);
+  transform: translate(2px, 2px);
+  font-size: 1rem;
 }
 /* //////////////////////Footer////////////////// */
 #contact-header {
