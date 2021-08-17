@@ -30,10 +30,14 @@
 /* //////////////Main image///////////////////////// */
 
 #about-me {
-  padding-top: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
-/* ////////////////////////////////ICONS/////////////////////// */
-
+/* ////////////////////////////////CAROSEL/////////////////////// */
+.center-header {
+  text-align: center;
+  padding-bottom: 5%;
+}
 /* //////////////////////Footer////////////////// */
 #contact-header {
   -moz-transform: translate(2px, 2px);
