@@ -2,17 +2,19 @@
 
 ## Description
 
-This is the Bootstrap/Project 1 Update to my personal portfolio. I have revised the look of the page entirely from Homework 02, encorporating modern Bootstrap design as well as all the CSS tricks I have learned in the last month so a potential employer can see my work and samples, as well as resume and links to all social and professional contact profiles (GitHub, LinkedIn)
+Quickly create a professional README for a new project
+
+## Acceptance Criteria
+
+A command-line application that accepts user input. User prompted for information about their application repository, then a high-quality, professional README.md is generated; autopopulating the project title and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 
 ## Installation
 
-- To see the porfolio, visit my [Github Pages Deployment.](https://patrickbrown-io.github.io/patrick-brown-portfolio/)
+- To see the porfolio, visit my [Github](https://github.com/patrickbrown-io)
 
 ## Usage
 
-I am available for content-creation, web-development, brand identity and more. You are welcome to forward this to any member(s) of your organization responsible for hiring outreach.
-
-![A screenshot of my new portfolio](./assets/deploy-screenshot.jpg)
+Files available upon request.
 
 ## Credits
 
@@ -20,8 +22,9 @@ I am available for content-creation, web-development, brand identity and more. Y
 
 ## Features
 
-Bootstrap
+- Autopopulates a professionally-markeddown README.md file.
+- Clickable links to GitHub, email, and navigation
 
 ## How to Contribute
 
-Feel free to help me add to my projects list-- I am open to work.
+Send me a message via GitHub and we can connect!
